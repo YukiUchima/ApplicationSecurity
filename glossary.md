@@ -53,3 +53,27 @@
 ### 10 Server-side request forgery (SSRF)
 
     SSRF occurs when application fetches resources without validating URL, then attacked takes advantage by entering destination of their choosing
+
+### SSDF (Secure Software Development Framework)
+
+    set of fundamental, sound and secure development practices
+
+### NIST Risk Management Framework (RMF)
+
+    Provides process to integrate security, privacy, and cyber supply chain risk management activities into SDLC
+
+### Complexity and Attack Surface
+
+    Increasing cybersecurity threat landscape and national imperatives leads to rise in complexity of hardware, software and systems, particularly in critical infrastructure, and therefore increases vulnerability to attack.
+
+### Supply Chain Risk
+
+    Adversaries exploit supply chains to compromise systems, emphasizing the need for robust supply chain risk management, or SCRM.
+
+### Defense Science Board Report
+
+    This highlights the urgent need for improved cyber deterrence and proactive risk management.
+
+### EO 13800
+
+    In the United States, Executive Order 13,800 mandates federal agencies to ensure robust risk management

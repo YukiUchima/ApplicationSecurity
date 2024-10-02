@@ -67,3 +67,33 @@
         # reduce shared components in a system
     # -> Psychological acceptability
         # make it easy to practice security for people
+
+
+# NIST Cybersecurity
+    # Secure Software Development Framework (SSDF)
+        # -> Prepare Organization
+        # -> Protect Software
+        # -> Response to Vulnerabilities
+        # -> Produce well-secured software
+
+# NIST CSF 2.0
+    # Suitable for both initiating and enhancing CS programs
+    # 6 foundations
+        # -> Governance
+        # -> Identify (understand systems, assets, data, capabilities to protect)
+        # -> Protect (implement safeguards to ensure delivery of services)
+        # -> Detect (imp activities to identify occurrence of cybersecurity even)
+        # -> Respond (take action to detected incident)
+        # -> Recover (restore capabilities and services imapried by incident)
+
+# RMF (7 Stages)
+    # Prepare
+    # Categorize
+    # Select
+    # Implement
+    # Assess
+    # Authorize
+    # Monitor
+
+# Cloud Security Alliance (contains 14 domains)
+    # Promotes use of best practice for cloud security assurance in cloud computing
